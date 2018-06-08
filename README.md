@@ -3,4 +3,4 @@
 ## Topics
 
 ### 1 - Clousures
--[Example]()
+-[Example for clicking =)](https://jsbin.com/qawagapaxi/edit?html,css,js,output)
