@@ -13,4 +13,9 @@
 #### Description
 - 1 task - [Slider](https://github.com/ValeryFilipev/SliderJS)
 it's slider, which had been written by ES5 via prototype - U can download into PC and will be clicked it, if necessary
-- 2 task - 
+- 2 task - [Inheritance](https://github.com/ValeryFilipev/Practice_in_epam/tree/master/inheritance)
+There's all ways of classes, examples of getters, setters, static methods etc. Compare ES6 class with ES5 prototype.
+
+### 3 - Promises
+
+#### Description
