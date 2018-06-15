@@ -19,3 +19,9 @@ There's all ways of classes, examples of getters, setters, static methods etc. C
 ### 3 - Promises
 
 #### Description
+- [Example of promise](https://github.com/ValeryFilipev/Practice_in_epam/tree/master/promises)
+In that example touched on topics such as Ajax, promise(ES6 feacher), http-responses etc. Description has inside one(description.txt)
+
+### 4 - Ajax
+
+#### Description
