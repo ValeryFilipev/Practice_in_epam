@@ -20,7 +20,7 @@ There's all ways of classes, examples of getters, setters, static methods etc. C
 
 #### Description
 - [Example of promise](https://github.com/ValeryFilipev/Practice_in_epam/tree/master/promises)
-In that example touched on topics such as Ajax, promise(ES6 feacher), http-responses etc. Description has inside one(description.txt)
+In that example touched on topics such as Ajax, promise(ES6 feature), http-responses etc. Description has inside one(description.txt)
 
 ### 4 - Ajax
 
