@@ -31,3 +31,5 @@ That's simple task for easy understand how to use ajax in all ways. We can input
 ### 5 - Call, apply, bind
 
 #### Description
+- [Check it up](https://github.com/ValeryFilipev/Practice_in_epam/tree/master/call_apply_bind)
+It's really huge examples for understand how to use it! Really, here we have a thin border between ones. In this code you can debugg some moments and make some conclusions.
