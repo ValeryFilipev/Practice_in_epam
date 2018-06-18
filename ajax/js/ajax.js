@@ -1,7 +1,7 @@
 "use strict";
 
 function AjaxStorage() {
-    var self = this;
+    let self = this;
 
     self.hashStorage = {};
 
@@ -56,8 +56,8 @@ function AjaxStorage() {
     };
 
     self.getKeys = function() {
-        var keys = [];
-        for (var key in self.hashStorage) {
+        let keys = [];
+        for (let key in self.hashStorage) {
             keys.push(" " + key);
         }
 
@@ -66,7 +66,7 @@ function AjaxStorage() {
 
     // save data into server
     function addValueOnTheServer(hash) {
-        var password = Math.random();
+        let password = Math.random();
 
         $.ajax("http://fe.it-academy.by/AjaxStringStorage2.php",
             {type: "POST", cache: false, dataType: "json", data: {status: "LOCK", owner: "Filipev_Valery_Storage",
