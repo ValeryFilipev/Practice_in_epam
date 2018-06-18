@@ -1,19 +1,19 @@
 "use strict";
 
 ( function () {
-    var drinkStorage = new AjaxStorage;
+    let drinkStorage = new AjaxStorage;
 
-    var setDrinkName = document.getElementById("setDrinkName");
-    var getDrinkInfo = document.getElementById("getDrinkInfo");
-    var deleteDrinkInfo = document.getElementById("deleteDrinkInfo");
-    var drinkList = document.getElementById("drinkList");
-    var drinkInfoFrame = document.getElementById("drinkInfoFrame");
+    let setDrinkName = document.getElementById("setDrinkName");
+    let getDrinkInfo = document.getElementById("getDrinkInfo");
+    let deleteDrinkInfo = document.getElementById("deleteDrinkInfo");
+    let drinkList = document.getElementById("drinkList");
+    let drinkInfoFrame = document.getElementById("drinkInfoFrame");
 
     drinkInfoFrame.classList.add("drinkInfoFrame");
 
     setDrinkName.onclick = function () {
-        var inputInfo = prompt("Enter the name of the drink, please");
-        var storeValue = {};
+        let inputInfo = prompt("Enter the name of the drink, please");
+        let storeValue = {};
 
         storeValue.alcohol = confirm(inputInfo + " - Alcohol or not?\nok - alcohol\ncancel - non-alcoholic");
         storeValue.recipe = prompt("Describe a recipe of the drink - " + inputInfo);
@@ -21,9 +21,9 @@
     };
 
     getDrinkInfo.onclick = function () {
-        var getDrink = prompt("Enter the name of the drink, please");
-        var drinkInfoFrame = document.getElementById("drinkInfoFrame");
-        var answer = drinkStorage.getValue(getDrink);
+        let getDrink = prompt("Enter the name of the drink, please");
+        let drinkInfoFrame = document.getElementById("drinkInfoFrame");
+        let answer = drinkStorage.getValue(getDrink);
 
         if (drinkStorage.getValue(getDrink) !== undefined) {
             drinkInfoFrame.style.height = "auto";
@@ -36,8 +36,8 @@
     };
 
     deleteDrinkInfo.onclick = function () {
-        var deleteDrinkInfo = prompt("Enter the name of the drink, please");
-        var drinkInfoFrame = document.getElementById("drinkInfoFrame");
+        let deleteDrinkInfo = prompt("Enter the name of the drink, please");
+        let drinkInfoFrame = document.getElementById("drinkInfoFrame");
 
         if (drinkStorage.deleteValue(deleteDrinkInfo) === true) {
             drinkInfoFrame.innerHTML = "Successfully! Desired drink is deleted";
@@ -47,7 +47,7 @@
     };
 
     drinkList.onclick = function () {
-        var drinkInfoFrame = document.getElementById("drinkInfoFrame");
+        let drinkInfoFrame = document.getElementById("drinkInfoFrame");
 
         drinkInfoFrame.innerHTML = drinkStorage.getKeys();
     }
