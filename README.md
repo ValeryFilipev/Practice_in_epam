@@ -43,4 +43,5 @@ It's my progect, which have also attach context but in more difficult way (Curry
 - [That](http://www.dofactory.com/javascript/singleton-design-pattern)
 - [Cool examples of a code](https://github.com/Badacadabra/JavaScript-Design-Patterns)
 - [Funny presentation](https://www.slideshare.net/creativepartners/java-script-design-patterns-with-es6-es7-babel)
+
 This stuff I shouldn't explain U, 'cos it's just for understand for what ones and how working. Good luck and keep smiling =)
