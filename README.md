@@ -35,3 +35,12 @@ That's simple task for easy understand how to use ajax in all ways. We can input
 It's really huge examples for understand how to use it! Really, here we have a thin border between ones. In this code you can debugg some moments and make some conclusions.
 - [Also check it](https://github.com/ValeryFilipev/Personal-Kanban-ES6-MVC-Observer)
 It's my progect, which have also attach context but in more difficult way (Currying method)
+
+### 6 - Design patterns in JS
+
+#### Description
+- [This](https://www.joezimjs.com/javascript/javascript-design-patterns-chain-of-responsibility/)
+- [That](http://www.dofactory.com/javascript/singleton-design-pattern)
+- [Cool examples of a code](https://github.com/Badacadabra/JavaScript-Design-Patterns)
+- [Funny presentation](https://www.slideshare.net/creativepartners/java-script-design-patterns-with-es6-es7-babel)
+This stuff I shouldn't explain U, 'cos it's just for understand for what ones and how working. Good luck and keep smiling =)
