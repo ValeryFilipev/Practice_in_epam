@@ -56,3 +56,14 @@ This stuff I shouldn't explain U, 'cos it's just for understand for what ones an
 #### Description
 - [Here](https://babeljs.io/)
 - [And here](https://www.youtube.com/watch?v=1ygZZJWvmYQ)
+
+### 9 - Site layout
+
+#### Description
+- [Click!](https://htmlacademy.ru/)
+
+### 10 - Webpack
+
+#### Description
+- [You're here!](https://webpack.js.org/)
+- [And here](https://www.youtube.com/watch?v=MRlBKfGktwI)
