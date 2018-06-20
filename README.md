@@ -73,3 +73,8 @@ This stuff I shouldn't explain U, 'cos it's just for understand for what ones an
 #### Description
 - [Aha](https://habr.com/post/322550/)
 - [Uhu](https://www.youtube.com/watch?v=qhuFviJn-es)
+
+### 12 - Unit-testing
+
+#### Description
+- [One of them](http://www.chaijs.com/)
