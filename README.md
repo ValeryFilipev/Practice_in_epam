@@ -67,3 +67,9 @@ This stuff I shouldn't explain U, 'cos it's just for understand for what ones an
 #### Description
 - [You're here!](https://webpack.js.org/)
 - [And here](https://www.youtube.com/watch?v=MRlBKfGktwI)
+
+### 11 - ES lint
+
+#### Description
+- [Aha](https://habr.com/post/322550/)
+- [Uhu](https://www.youtube.com/watch?v=qhuFviJn-es)
