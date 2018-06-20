@@ -50,3 +50,9 @@ This stuff I shouldn't explain U, 'cos it's just for understand for what ones an
 
 #### Description
 - [Click!](https://docs.npmjs.com/cli/install)
+
+### 8 - Babel
+
+#### Description
+- [Here](https://babeljs.io/)
+- [And here](https://www.youtube.com/watch?v=1ygZZJWvmYQ)
